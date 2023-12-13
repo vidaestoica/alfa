@@ -1,0 +1,30 @@
+
+
+
+
+.contenidor{
+    padding-top: 10px;
+    text-align: center;
+
+}
+
+.content{
+        text-align: justify;
+        padding-top: 1px;
+	padding-left: 30px;
+    	padding-right: 30px;
+    }
+
+
+
+.size{
+    font-size: 18px;
+}
+
+@media (min-width: 1024px) {
+    .escritori {
+      margin-left: 35%;
+      margin-right: 35%;
+    }
+    
+  }
